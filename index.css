@@ -1,0 +1,60 @@
+body{ 
+max-width: 1440px;
+height: 3598px;
+top: 247px;
+left: 353px;
+margin: auto;
+}
+#container{
+background-color: #f4f4f4;
+
+}
+.header{ 
+    background-color: black;
+    height: 80px;
+    width: 1440px;
+    text-align: center;
+    gap:10px;
+}
+.top section{
+    display: flex;
+}
+.top section title{
+  text-align: center;  
+  width: 555px;
+  height: 88px;
+  size: 72px;
+  color: black;
+}
+.top section image{
+  width: 58px;  
+  height: 29px;
+  text-align: center;
+  size: 24px;
+}
+.zurag1{
+   width: 284px; 
+   height: 400px;
+   margin-top: 200px;
+   background-color: rgba(78, 3, 3, 0.678);
+}
+.zurag2{
+    width: 284px;
+    height: 400px;
+    margin-top:200px;
+    background-color: rgba(75, 3, 3, 0.658);
+}
+.zurag3{
+    width: 284px;
+    height: 400px;
+    left: 610px;
+    background-color: rgba(71, 3, 3, 0.616);
+    margin-top: 200px;
+}
+.zurag4{
+width: 284px;
+height: 400px;
+background-color: rgba(78, 5, 5, 0.616);
+margin-top: 200px;
+border: 15px;
+}
